@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #f965beaf;
+}
+
+.birt-container{
+    width: 600px;
+    text-align: center;
+    padding: 20px;
+    
+}
+.birt-container img{
+    width: 50%;
+}
+.birt-container h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: #fff;
+    text-align: center;
+    margin: 10px 0;
+}
+.form{
+    text-align: center;
+}
+.form input{
+    margin: 5px;
+    padding: 10px;
+    height: 40px;
+    width: 160px;
+}
+.form input:focus{
+    outline: none;
+}
+.form .btn-container{
+    margin: 15px 0;
+}
+.form .btn-container button{
+    padding: 8px 15px;
+    cursor: pointer;
+}
+
+.you-lucky{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.you-lucky img{
+    width: 150px;
+    height: 140px;
+}
