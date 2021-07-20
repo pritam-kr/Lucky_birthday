@@ -31,7 +31,7 @@ body{
     
 }
 .birt-container img{
-    width: 350px;
+    width: 250px;
 }
 .birt-container h3{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -75,6 +75,7 @@ body{
 footer{
     margin-top: 50px;
     text-align: center;
+    padding: 20px 0;
 }
 footer ul li{
     display: inline-block;
