@@ -11,4 +11,10 @@
 ## Privacy 
 
  This application if for fun. We're not sahring or collecting your data.
+ 
+## Stack used in this project
+
+ - HTML
+ - CSS
+ - JavaScript
 
