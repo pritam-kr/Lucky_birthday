@@ -11,7 +11,7 @@ form.addEventListener("submit", (e) => {
   let sum = 0;
   for (eachString of dateString) {
     sum = sum + Number(eachString);
-     console.log(sum);
+    console.log(sum);
 
     //  console.log(Number(eachString))
 
